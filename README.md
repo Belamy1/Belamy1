@@ -10,7 +10,7 @@ Encuéntrame en la web 🌎:
 
 
 ---
-⭐️ From [Drey](https://github.com/Dreyuix)
+⭐️ From [Drey]([https://github.com/Belamy1)
  
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyuix&show_icons=true&theme=transparent)
